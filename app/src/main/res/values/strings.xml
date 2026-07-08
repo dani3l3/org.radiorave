@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Radio Rave</string>
+    <string name="title_sound_example">Loading...</string>
+    <string name="stream_url">https://azura12.instainternet.com/listen/radio_rave/radio.mp3</string>
+    <string name="status_url">https://azura12.instainternet.com/api/nowplaying/radio_rave</string>
+    <string name="home_text_row1">RADIO RAVE Independent Underground Radio</string>
+    <string name="home_text_row2">📡 FREE TRANSMISSION 24/7</string>
+    <string name="home_text_row3">https://www.radiorave.org</string>
+    <string name="playpause">Play / Pause</string>
+</resources>
