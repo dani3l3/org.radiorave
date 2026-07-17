@@ -1,6 +1,6 @@
 #  Radio Rave Android Native app
 
-![Screenshot](./app-screenshot-2026-05-28.png "Screenshot")
+![Screenshot](./screenshot_phone.jpg "Screenshot")
 
 
 References about the architecture/patterns followed:
