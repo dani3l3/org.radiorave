@@ -4,6 +4,8 @@
 
 This is a simple app using a background service to play an audio stream and a de-coupled UX interacting with the service. Metadata about the track being played is polled from a web API every 30 seconds.
 
+Current requirements are: minimum OS: Android 6. Besides tablets and phones, it have been tested and should also work fine on Amazon Kindle, Amazon Fire TV, Android TV, Google TV (including the new Chromecast).
+
 Radio website: https://radiorave.org
 
 
