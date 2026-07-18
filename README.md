@@ -2,6 +2,10 @@
 
 ![Screenshot](./screenshot_phone.jpg "Screenshot")
 
+This is a simple app using a background service to play an audio stream and a de-coupled UX interacting with the service. Metadata about the track being played is polled from a web API every 30 seconds.
+
+Radio website: https://radiorave.org
+
 
 References about the architecture/patterns followed:
 - https://developer.android.com/media/media3/session/background-playback
